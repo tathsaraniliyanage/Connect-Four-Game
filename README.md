@@ -36,4 +36,4 @@ If you want to find out how the game looks like at the end of each step, check o
 
 ### License
 Copyright © 2023 DEP. All rights reserved <br>
-This project is licensed under the [MIT](LICENSE.txt) License.
+This project is licensed under the [MIT](LICENSE) License.
